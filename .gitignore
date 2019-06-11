@@ -1,0 +1,6 @@
+# Don't track content of these folders
+testing/
+src/images/
+# Compiled source #
+###################
+
